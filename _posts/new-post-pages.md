@@ -3,6 +3,7 @@
 # 增加pages步骤：
 	git add .
 	git commit -m "first post"
+	git push origin
 	jekyll serve
 	rake post title="Hello World"
 1. 增加到本地库。

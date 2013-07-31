@@ -1,21 +1,19 @@
 ---
 layout: post
 title: "jekyll tips"
-description: ""
+description: "note"
 category: 
-tags: []
+tags: ["tip"]
 ---
-# Ô¼Óages²½Ö£º
+# 增加pages步骤：
     git add .
-        git commit -m "first post"
-            jekyll serve
-                rake post title="Hello World"
-                1. Ô¼ӵ½±¾µؿ⡣
-                2. [²ο¼×Á
-                :](http://yanshasha.com/2013/03/04/build-jekyll-blog-under-win7/
-                ) windows7Ï»ùthub´jekyll²©¿Í3.
-                [¹ٷ½×Á:](https://help.github.com/articles/generating-ssh-keys)Generating
-                SSH Keys
-                4. [È·ÖӴjekyll :](http://jekyllbootstrap.com/)Zero to Hosted
-                Jekyll Blog in 3 Minutes
+    git commit -m "first post"
+    git push origin
+    jekyll serve
+    rake post title="Hello World"
+
+# 增加到本地库。
+2. [参考资料 :](http://yanshasha.com/2013/03/04/build-jekyll-blog-under-win7/ ) windows7下基于github搭建jekyll博客
+3. [官方资料:](https://help.github.com/articles/generating-ssh-keys)Generating SSH Keys
+4. [三分钟搭建jekyll :](http://jekyllbootstrap.com/)Zero to Hosted Jekyll Blog in 3 Minutes
 {% include JB/setup %}
