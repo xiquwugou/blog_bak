@@ -11,6 +11,21 @@
 	<link href='{{ ASSET_PATH }}/css/style.css' rel="stylesheet" media="all">
 	<link href="http://feeds.feedburner.com/{{ site.author.feedbaname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
 	<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
+	
+    <link href="http://blog.evercoding.net/assets/themes/black/google-code-prettify/desert.css" rel="stylesheet">
+	<script src="http://twitter.github.com/bootstrap/assets/js/google-code-prettify/prettify.js"></script>
+	<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	
+	  <script>
+		// make sure jQuery is loaded before you run this function,
+		// probably a good idea to create an application.js loaded
+		// as last js file
+		$(function() {
+		  // make code pritty
+		  window.prettyPrint && prettyPrint();
+		});
+	  </script>
+	
 </head>
 <body>
 
