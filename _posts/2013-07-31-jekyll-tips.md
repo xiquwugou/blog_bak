@@ -8,7 +8,7 @@ tags: ["tip"]
 # 增加pages步骤：
     git add .
     git commit -m "first post"
-    git push origin
+    git push origin master
     jekyll serve
     rake post title="Hello World"
 
