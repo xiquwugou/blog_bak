@@ -1,0 +1,2432 @@
+
+localhost - - [01/Sep/2013:18:33:40 CST] "GET / HTTP/1.0" 200 8681
+- -> /
+localhost - - [01/Sep/2013:18:33:40 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:33:40 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92629
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:33:41 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:33:41 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:33:41 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:33:41 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:34:06 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+[2013-09-01 18:34:06] ERROR `/assets/themes/the-minimum/javascript/jquery.min.map' not found.
+localhost - - [01/Sep/2013:18:34:06 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.map HTTP/1.0" 404 325
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.map
+localhost - - [01/Sep/2013:18:34:06 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:18:36:26 CST] "GET / HTTP/1.0" 200 8653
+- -> /
+[2013-09-01 18:36:26] ERROR `/assets/themes/the-minimummodernizr.min.js' not found.
+localhost - - [01/Sep/2013:18:36:26 CST] "GET /assets/themes/the-minimummodernizr.min.js HTTP/1.0" 404 315
+http://fengaili.com/ -> /assets/themes/the-minimummodernizr.min.js
+localhost - - [01/Sep/2013:18:36:26 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:36:26 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92629
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:36:26 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:36:26 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:36:26 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:36:26 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:36:26 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:36:26 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+[2013-09-01 18:36:26] ERROR `/assets/themes/the-minimum/javascript/jquery.min.map' not found.
+localhost - - [01/Sep/2013:18:36:26 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.map HTTP/1.0" 404 325
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.map
+[2013-09-01 18:37:00] ERROR `/assets/themes/the-minimummodernizr.min.js' not found.
+localhost - - [01/Sep/2013:18:37:00 CST] "GET /assets/themes/the-minimummodernizr.min.js HTTP/1.0" 404 315
+- -> /assets/themes/the-minimummodernizr.min.js
+localhost - - [01/Sep/2013:18:37:32 CST] "GET / HTTP/1.0" 200 8654
+- -> /
+[2013-09-01 18:37:32] ERROR `/assets/themes/the-minimum/modernizr.min.js' not found.
+localhost - - [01/Sep/2013:18:37:32 CST] "GET /assets/themes/the-minimum/modernizr.min.js HTTP/1.0" 404 316
+http://fengaili.com/ -> /assets/themes/the-minimum/modernizr.min.js
+localhost - - [01/Sep/2013:18:37:32 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:37:32 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92629
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:37:32 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:37:32 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:37:32 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:37:32 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:37:32 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:37:32 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+[2013-09-01 18:37:33] ERROR `/assets/themes/the-minimum/javascript/jquery.min.map' not found.
+localhost - - [01/Sep/2013:18:37:33 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.map HTTP/1.0" 404 325
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.map
+[2013-09-01 18:37:43] ERROR `/assets/themes/the-minimum/modernizr.min.js' not found.
+localhost - - [01/Sep/2013:18:37:43 CST] "GET /assets/themes/the-minimum/modernizr.min.js HTTP/1.0" 404 316
+- -> /assets/themes/the-minimum/modernizr.min.js
+[2013-09-01 18:38:13] ERROR `/assets/themes/the-minimum/modernizr.min.js' not found.
+localhost - - [01/Sep/2013:18:38:13 CST] "GET /assets/themes/the-minimum/modernizr.min.js HTTP/1.0" 404 316
+- -> /assets/themes/the-minimum/modernizr.min.js
+[2013-09-01 18:38:15] ERROR `/assets/themes/the-minimum/modernizr.min.js' not found.
+localhost - - [01/Sep/2013:18:38:15 CST] "GET /assets/themes/the-minimum/modernizr.min.js HTTP/1.0" 404 316
+- -> /assets/themes/the-minimum/modernizr.min.js
+localhost - - [01/Sep/2013:18:38:17 CST] "GET / HTTP/1.0" 200 8665
+- -> /
+localhost - - [01/Sep/2013:18:38:17 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 200 16820
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:38:17 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:38:17 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92629
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:38:17 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:38:17 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:38:17 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:38:17 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:38:17 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:38:17 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+[2013-09-01 18:38:17] ERROR `/assets/themes/the-minimum/javascript/jquery.min.map' not found.
+localhost - - [01/Sep/2013:18:38:17 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.map HTTP/1.0" 404 325
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.map
+localhost - - [01/Sep/2013:18:39:40 CST] "GET / HTTP/1.0" 200 8667
+- -> /
+localhost - - [01/Sep/2013:18:39:40 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:39:40 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 200 16820
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:39:40 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92629
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:39:40 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:39:40 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:39:40 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:39:40 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:39:40 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:39:40 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+[2013-09-01 18:39:40] ERROR `/assets/themes/the-minimum/javascript/jquery.min.map' not found.
+localhost - - [01/Sep/2013:18:39:40 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.map HTTP/1.0" 404 325
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.map
+localhost - - [01/Sep/2013:18:39:43 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [01/Sep/2013:18:39:43 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:39:43 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:39:43 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:39:43 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:39:43 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:39:43 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:39:43 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:39:43 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:39:43 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+[2013-09-01 18:39:43] ERROR `/assets/themes/the-minimum/javascript/jquery.min.map' not found.
+localhost - - [01/Sep/2013:18:39:43 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.map HTTP/1.0" 404 325
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.map
+localhost - - [01/Sep/2013:18:39:56 CST] "GET / HTTP/1.0" 200 8667
+- -> /
+localhost - - [01/Sep/2013:18:39:56 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:39:56 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 200 16820
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:39:56 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92629
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:39:56 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/assets/themes/the-minimum/css/style.css -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:39:56 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/assets/themes/the-minimum/css/style.css -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:39:56 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/assets/themes/the-minimum/css/style.css -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:39:56 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/assets/themes/the-minimum/css/style.css -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:39:57 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/assets/themes/the-minimum/css/style.css -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:18:39:57 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/assets/themes/the-minimum/css/style.css -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+[2013-09-01 18:39:57] ERROR `/favicon.ico' not found.
+localhost - - [01/Sep/2013:18:39:57 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+[2013-09-01 18:39:57] ERROR `/favicon.ico' not found.
+localhost - - [01/Sep/2013:18:39:57 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [01/Sep/2013:18:40:04 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [01/Sep/2013:18:40:05 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:40:05 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:40:05 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:40:05 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:40:05 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:40:05 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:40:05 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:40:05 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+[2013-09-01 18:40:05] ERROR `/assets/themes/the-minimum/javascript/jquery.min.map' not found.
+localhost - - [01/Sep/2013:18:40:05 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:18:40:05 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.map HTTP/1.0" 404 325
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.map
+localhost - - [01/Sep/2013:18:40:42 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [01/Sep/2013:18:40:42 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:40:42 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:40:42 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:40:42 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:40:42 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:40:42 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:40:42 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:40:42 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:40:42 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+[2013-09-01 18:40:42] ERROR `/assets/themes/the-minimum/javascript/jquery.min.map' not found.
+localhost - - [01/Sep/2013:18:40:42 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.map HTTP/1.0" 404 325
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.map
+localhost - - [01/Sep/2013:18:40:44 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [01/Sep/2013:18:40:44 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:40:44 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:40:44 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:40:44 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:40:44 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:40:44 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:40:44 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:40:44 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+[2013-09-01 18:40:44] ERROR `/assets/themes/the-minimum/javascript/jquery.min.map' not found.
+localhost - - [01/Sep/2013:18:40:44 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.map HTTP/1.0" 404 325
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.map
+localhost - - [01/Sep/2013:18:40:44 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:18:40:46 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [01/Sep/2013:18:40:46 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:40:46 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:40:46 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:40:46 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:40:46 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:40:46 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:40:46 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:40:47 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+[2013-09-01 18:40:47] ERROR `/assets/themes/the-minimum/javascript/jquery.min.map' not found.
+localhost - - [01/Sep/2013:18:40:47 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:18:40:47 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.map HTTP/1.0" 404 325
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.map
+localhost - - [01/Sep/2013:18:41:51 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 200 8531
+http://fengaili.com/ -> /2013/08/31/new-post/
+localhost - - [01/Sep/2013:18:41:51 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:41:51 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:41:51 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:41:51 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:41:51 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:41:51 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:41:51 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:41:51 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:41:51 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+[2013-09-01 18:41:51] ERROR `/assets/themes/the-minimum/javascript/jquery.min.map' not found.
+localhost - - [01/Sep/2013:18:41:51 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.map HTTP/1.0" 404 325
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/javascript/jquery.min.map
+localhost - - [01/Sep/2013:18:50:18 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 200 8602
+http://fengaili.com/ -> /2013/08/31/new-post/
+localhost - - [01/Sep/2013:18:50:18 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:50:18 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 200 16820
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:50:18 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92629
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:50:18 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:50:18 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:50:18 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:50:18 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:50:19 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:50:19 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:18:50:37 CST] "GET / HTTP/1.0" 200 8738
+http://fengaili.com/2013/08/31/new-post/ -> /
+localhost - - [01/Sep/2013:18:50:37 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:50:37 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:50:37 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:50:37 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:50:37 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:50:37 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:50:37 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:50:37 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:50:37 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:18:51:19 CST] "GET / HTTP/1.0" 200 8738
+http://fengaili.com/2013/08/31/new-post/ -> /
+localhost - - [01/Sep/2013:18:51:19 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:51:20 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 200 16820
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:51:20 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92629
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:51:20 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 7513
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:18:51:20 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:51:20 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:51:20 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:51:20 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:51:20 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:51:20 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:18:51:22 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 200 8602
+http://fengaili.com/ -> /2013/08/31/new-post/
+localhost - - [01/Sep/2013:18:51:22 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:51:22 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:51:22 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:51:22 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:18:51:22 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:51:22 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:51:22 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:51:22 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:51:22 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:51:22 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:18:51:38 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 304 0
+http://fengaili.com/ -> /2013/08/31/new-post/
+localhost - - [01/Sep/2013:18:51:38 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:51:38 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:51:38 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:51:38 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:18:51:38 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:51:38 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:51:38 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:51:38 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:51:38 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:51:38 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:18:52:28 CST] "GET / HTTP/1.0" 200 8738
+http://www.baidu.com/s?wd=site%3Afengaili.com -> /
+localhost - - [01/Sep/2013:18:52:28 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:52:28 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:52:29 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:52:29 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:52:29 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:52:30 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 200 16820
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:52:30 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:52:30 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92629
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:52:30 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 7513
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:18:52:57 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 200 8602
+http://fengaili.com/ -> /2013/08/31/new-post/
+localhost - - [01/Sep/2013:18:52:57 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 200 16820
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:52:57 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:52:57 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92629
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:52:57 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 7516
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:18:52:57 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:52:57 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:52:57 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:52:57 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:52:58 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:52:58 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:18:53:18 CST] "GET /2013/08/27/code-highlight HTTP/1.0" 301 84
+http://fengaili.com/2013/08/31/new-post/ -> /2013/08/27/code-highlight
+localhost - - [01/Sep/2013:18:53:18 CST] "GET /2013/08/27/code-highlight/ HTTP/1.0" 200 8387
+http://fengaili.com/2013/08/31/new-post/ -> /2013/08/27/code-highlight/
+localhost - - [01/Sep/2013:18:53:18 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:53:18 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:53:18 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:18:53:18 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:53:19 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:53:19 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:53:19 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:53:19 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:53:19 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:53:19 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:18:53:35 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:18:54:10 CST] "GET /2013/08/27/code-highlight/ HTTP/1.0" 200 8387
+http://fengaili.com/2013/08/31/new-post/ -> /2013/08/27/code-highlight/
+localhost - - [01/Sep/2013:18:54:10 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 7516
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:18:54:10 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:54:10 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 200 16820
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:54:10 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92629
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:54:10 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:54:10 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:54:10 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:54:10 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:54:10 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:54:10 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+[2013-09-01 18:54:12] ERROR `/favicon.ico' not found.
+localhost - - [01/Sep/2013:18:54:12 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+[2013-09-01 18:54:12] ERROR `/favicon.ico' not found.
+localhost - - [01/Sep/2013:18:54:12 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+[2013-09-01 18:54:21] ERROR `/assets/themes/the-minimum/javascript/jquery.min.map' not found.
+localhost - - [01/Sep/2013:18:54:21 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.map HTTP/1.0" 404 325
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/jquery.min.map
+localhost - - [01/Sep/2013:18:56:06 CST] "GET /2013/08/27/code-highlight/ HTTP/1.0" 200 8387
+http://fengaili.com/2013/08/31/new-post/ -> /2013/08/27/code-highlight/
+localhost - - [01/Sep/2013:18:56:06 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:56:06 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 200 16820
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:56:06 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 7516
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:18:56:06 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92594
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:56:06 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:56:06 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:56:06 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:56:06 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:56:06 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:56:07 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:18:59:18 CST] "GET /2013/08/27/code-highlight/ HTTP/1.0" 200 8387
+http://fengaili.com/2013/08/31/new-post/ -> /2013/08/27/code-highlight/
+localhost - - [01/Sep/2013:18:59:18 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:59:18 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 7351
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:18:59:18 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 200 16820
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:59:18 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92594
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:59:18 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:59:18 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:59:18 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:59:18 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:59:19 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:59:19 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:18:59:35 CST] "GET /2013/08/27/code-highlight/ HTTP/1.0" 200 8387
+http://fengaili.com/2013/08/31/new-post/ -> /2013/08/27/code-highlight/
+localhost - - [01/Sep/2013:18:59:35 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:59:35 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:59:35 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:59:35 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:18:59:35 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:59:35 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:59:35 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:59:35 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:59:36 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:59:36 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:18:59:51 CST] "GET / HTTP/1.0" 200 8738
+http://fengaili.com/2013/08/27/code-highlight/ -> /
+localhost - - [01/Sep/2013:18:59:52 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:59:52 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:59:52 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:18:59:52 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:59:52 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:59:52 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:59:52 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:59:52 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:59:52 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:59:52 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:18:59:57 CST] "GET /2013/08/27/code-highlight/ HTTP/1.0" 304 0
+http://fengaili.com/ -> /2013/08/27/code-highlight/
+localhost - - [01/Sep/2013:18:59:57 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:18:59:57 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:18:59:57 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:18:59:57 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:18:59:57 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:18:59:57 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:18:59:57 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:18:59:57 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:18:59:57 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:18:59:57 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:19:00:06 CST] "GET / HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /
+localhost - - [01/Sep/2013:19:00:06 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:19:00:06 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:19:00:06 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:19:00:06 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:19:00:06 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:19:00:06 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:19:00:06 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:19:00:06 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:19:00:06 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:19:00:06 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:19:00:12 CST] "GET /2013/08/11/new-post HTTP/1.0" 301 72
+http://fengaili.com/ -> /2013/08/11/new-post
+localhost - - [01/Sep/2013:19:00:12 CST] "GET /2013/08/11/new-post/ HTTP/1.0" 200 9144
+http://fengaili.com/ -> /2013/08/11/new-post/
+localhost - - [01/Sep/2013:19:00:13 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:19:00:13 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:19:00:13 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:19:00:13 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:19:00:13 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:19:00:13 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:19:00:13 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:19:00:13 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:19:00:13 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:19:00:13 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:19:00:41 CST] "GET / HTTP/1.0" 304 0
+http://fengaili.com/2013/08/11/new-post/ -> /
+localhost - - [01/Sep/2013:19:00:41 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:19:00:41 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:19:00:41 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:19:00:41 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:19:00:41 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:19:00:41 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:19:00:41 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:19:00:41 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:19:00:42 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:19:00:42 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:19:01:50 CST] "GET / HTTP/1.0" 304 0
+http://fengaili.com/ -> /
+localhost - - [01/Sep/2013:19:01:50 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:19:01:51 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:19:01:51 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:19:01:51 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:19:01:51 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:19:01:51 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:19:01:51 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:19:01:51 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:19:01:51 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:19:01:51 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:19:03:08 CST] "GET / HTTP/1.0" 304 0
+http://fengaili.com/ -> /
+localhost - - [01/Sep/2013:19:03:08 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:19:03:08 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:19:03:08 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:19:03:08 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:19:03:08 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:19:03:08 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:19:03:08 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:19:03:08 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:19:03:08 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:19:03:08 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:19:05:53 CST] "GET / HTTP/1.0" 304 0
+http://fengaili.com/ -> /
+localhost - - [01/Sep/2013:19:05:53 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:19:05:53 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:19:05:53 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:19:05:53 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:19:05:53 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:19:05:53 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:19:05:53 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:19:05:53 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:19:05:53 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:19:05:53 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:19:06:00 CST] "GET /2013/08/11/new-post/ HTTP/1.0" 304 0
+http://fengaili.com/ -> /2013/08/11/new-post/
+localhost - - [01/Sep/2013:19:06:01 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/11/new-post/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:19:06:01 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/11/new-post/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:19:06:01 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/11/new-post/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:19:06:01 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/2013/08/11/new-post/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:19:06:01 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/11/new-post/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:19:06:01 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/11/new-post/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:19:06:01 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/11/new-post/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:19:06:01 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/11/new-post/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:19:06:01 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/2013/08/11/new-post/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:19:06:01 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/2013/08/11/new-post/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:19:06:35 CST] "GET /2013/07/31/hello-world HTTP/1.0" 301 78
+http://fengaili.com/ -> /2013/07/31/hello-world
+localhost - - [01/Sep/2013:19:06:35 CST] "GET /2013/07/31/hello-world/ HTTP/1.0" 200 7599
+http://fengaili.com/ -> /2013/07/31/hello-world/
+localhost - - [01/Sep/2013:19:06:35 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:19:06:35 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:19:06:35 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:19:06:35 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:19:06:35 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:19:06:35 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:19:06:35 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:19:06:35 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:19:08:19 CST] "GET / HTTP/1.0" 200 8506
+http://fengaili.com/ -> /
+localhost - - [01/Sep/2013:19:08:19 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:19:08:19 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 200 16820
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:19:08:19 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:19:08:19 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:19:08:19 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:19:08:19 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:19:08:19 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:19:08:19 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92594
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:19:08:20 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/2013/08/27/code-highlight/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:19:08:20 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:19:09:51 CST] "GET / HTTP/1.0" 200 8506
+http://fengaili.com/ -> /
+localhost - - [01/Sep/2013:19:09:51 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:19:09:51 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:19:09:51 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 200 16820
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:19:09:51 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92594
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:19:09:51 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:19:09:51 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:19:09:51 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:19:09:51 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:19:09:51 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:19:09:52 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+[2013-09-01 19:09:52] ERROR `/favicon.ico' not found.
+localhost - - [01/Sep/2013:19:09:52 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [01/Sep/2013:19:09:56 CST] "GET / HTTP/1.0" 304 0
+http://fengaili.com/ -> /
+localhost - - [01/Sep/2013:19:09:56 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:19:09:56 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:19:09:56 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:19:09:56 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:19:09:56 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:19:09:56 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:19:09:56 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:19:09:56 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:19:09:56 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:19:09:56 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:19:09:58 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 200 8602
+http://fengaili.com/ -> /2013/08/31/new-post/
+localhost - - [01/Sep/2013:19:09:58 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:19:09:58 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:19:09:58 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:19:09:58 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:19:09:58 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:19:09:58 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:19:09:58 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:19:09:58 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:19:09:58 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:19:09:58 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:19:10:23 CST] "GET / HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /
+localhost - - [01/Sep/2013:19:10:23 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:19:10:23 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:19:10:23 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:19:10:23 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:19:10:23 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:19:10:23 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:19:10:23 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:19:10:23 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:19:10:23 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:19:10:24 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:19:10:26 CST] "GET /2013/08/27/code-highlight/ HTTP/1.0" 200 8387
+http://fengaili.com/ -> /2013/08/27/code-highlight/
+localhost - - [01/Sep/2013:19:29:19 CST] "GET /2013/08/09/test-code HTTP/1.0" 301 74
+- -> /2013/08/09/test-code
+localhost - - [01/Sep/2013:19:29:19 CST] "GET /2013/08/09/test-code/ HTTP/1.0" 200 8338
+- -> /2013/08/09/test-code/
+localhost - - [01/Sep/2013:19:29:27 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 200 16820
+http://fengaili.com/2013/08/09/test-code -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:19:29:28 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92594
+http://fengaili.com/2013/08/09/test-code -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:19:29:29 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/2013/08/09/test-code -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:20:02:39 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+- -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:20:35:59 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 200 16820
+- -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:21:09:19 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92594
+- -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:22:02:27 CST] "GET / HTTP/1.0" 200 8506
+- -> /
+localhost - - [01/Sep/2013:22:02:27 CST] "GET / HTTP/1.0" 200 8506
+- -> /
+localhost - - [01/Sep/2013:22:02:27 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:22:02:27 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:22:02:28 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:22:02:28 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 200 16820
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:22:02:28 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92594
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:22:02:28 CST] "GET /assets/themes/the-minimum/javascript/modernizr.min.js HTTP/1.0" 200 16820
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/modernizr.min.js
+localhost - - [01/Sep/2013:22:02:28 CST] "GET /assets/themes/the-minimum/javascript/jquery.min.js HTTP/1.0" 200 92594
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/jquery.min.js
+localhost - - [01/Sep/2013:22:02:28 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:22:02:28 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:22:02:28 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:22:02:28 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:22:02:28 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:22:02:28 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:22:02:28 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:22:02:28 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:22:02:28 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:22:02:28 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://www.fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:22:02:28 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://www.fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:22:02:29 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://www.fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:22:02:29 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://www.fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:22:16:41 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:22:16:41 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:22:16:41 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:22:16:41 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:22:16:42 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:22:16:42 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:22:16:42 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:22:16:42 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://www.fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:22:16:42 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://www.fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:22:16:42 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:22:16:42 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:22:16:42 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:22:16:43 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:22:16:43 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:22:16:43 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:22:16:43 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:22:16:43 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://www.fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:22:16:43 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://www.fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:22:56:25 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:22:56:25 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:22:56:25 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:22:56:25 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:22:56:25 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:22:56:25 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:22:56:25 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:22:56:26 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:22:56:26 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:22:56:29 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [01/Sep/2013:22:56:29 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:22:56:29 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:22:56:29 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:22:56:29 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:22:56:29 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:22:56:29 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:22:56:29 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:22:56:29 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:22:56:31 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [01/Sep/2013:22:56:31 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:22:56:31 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:22:56:31 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:22:56:31 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:22:56:31 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:22:56:31 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:22:56:31 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:22:56:31 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:22:56:33 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 200 8445
+http://fengaili.com/ -> /2013/08/31/new-post/
+localhost - - [01/Sep/2013:22:56:39 CST] "GET /2013/08/27/code-highlight/ HTTP/1.0" 200 8230
+http://fengaili.com/ -> /2013/08/27/code-highlight/
+localhost - - [01/Sep/2013:23:10:25 CST] "HEAD / HTTP/1.0" 200 0
+- -> /
+localhost - - [01/Sep/2013:23:16:47 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:16:47 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:16:48 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:23:16:48 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:23:16:48 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:23:16:48 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:23:16:48 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:23:16:48 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:23:16:48 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:23:16:48 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:23:16:48 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:23:16:48 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:23:16:48 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:23:16:48 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:23:16:48 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://www.fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:23:16:48 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://www.fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:23:16:48 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://www.fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:23:16:48 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://www.fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:23:17:02 CST] "HEAD / HTTP/1.0" 200 0
+- -> /
+localhost - - [01/Sep/2013:23:20:14 CST] "HEAD / HTTP/1.0" 200 0
+- -> /
+localhost - - [01/Sep/2013:23:20:31 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:20:31 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:20:31 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:23:20:31 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:23:20:32 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:23:20:32 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:23:20:32 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:23:20:32 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:23:20:32 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:23:20:32 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:23:20:32 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:23:20:32 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:23:20:32 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:23:20:32 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:23:20:32 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://www.fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:23:20:32 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://www.fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:23:20:32 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://www.fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:23:20:32 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://www.fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:23:23:46 CST] "HEAD / HTTP/1.0" 200 0
+- -> /
+localhost - - [01/Sep/2013:23:24:07 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:24:07 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:24:24 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [01/Sep/2013:23:24:28 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [01/Sep/2013:23:24:30 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [01/Sep/2013:23:24:32 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [01/Sep/2013:23:24:33 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 304 0
+http://fengaili.com/ -> /2013/08/31/new-post/
+localhost - - [01/Sep/2013:23:26:51 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [01/Sep/2013:23:26:54 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:26:55 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:26:56 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:26:56 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:26:56 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:26:57 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:26:57 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:26:57 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:26:58 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:26:58 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:26:58 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:26:58 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:28:22 CST] "HEAD / HTTP/1.0" 200 0
+- -> /
+localhost - - [01/Sep/2013:23:28:39 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:28:39 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:29:05 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:29:08 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:29:09 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:29:10 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:29:10 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:29:11 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:29:11 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:29:12 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:30:36 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 304 0
+http://fengaili.com/ -> /2013/08/31/new-post/
+localhost - - [01/Sep/2013:23:30:36 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:23:30:36 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:23:30:37 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:23:30:37 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:23:30:37 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:23:30:37 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:23:30:37 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:23:30:37 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:23:37:17 CST] "HEAD / HTTP/1.0" 200 0
+- -> /
+localhost - - [01/Sep/2013:23:37:30 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:37:30 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:37:47 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 304 0
+http://fengaili.com/ -> /2013/08/31/new-post/
+localhost - - [01/Sep/2013:23:38:53 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 304 0
+http://fengaili.com/ -> /2013/08/31/new-post/
+localhost - - [01/Sep/2013:23:38:55 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:23:39:01 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:23:39:20 CST] "HEAD /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 0
+- -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:23:39:43 CST] "HEAD /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 0
+- -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:23:40:53 CST] "HEAD /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 0
+- -> /assets/themes/the-minimum/css/style.css
+[2013-09-01 23:46:56] ERROR `/2013/09/01/new-post/' not found.
+localhost - - [01/Sep/2013:23:46:56 CST] "GET /2013/09/01/new-post/ HTTP/1.0" 404 294
+- -> /2013/09/01/new-post/
+localhost - - [01/Sep/2013:23:48:39 CST] "HEAD /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 0
+- -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:23:48:58 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:48:58 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:48:58 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:23:48:58 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:23:48:59 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:23:48:59 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:23:48:59 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:23:48:59 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:23:48:59 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:23:49:00 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:23:49:00 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:23:49:00 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:23:49:00 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:23:49:00 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:23:49:00 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://www.fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:23:49:00 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://www.fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:23:49:00 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://www.fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:23:49:00 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://www.fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [01/Sep/2013:23:50:24 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [01/Sep/2013:23:50:24 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:23:50:24 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:23:50:24 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:23:50:24 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:23:50:24 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:23:50:24 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:23:50:24 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:23:50:24 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:23:50:25 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:23:50:25 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:23:50:25 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:23:50:25 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:23:50:25 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/2013/08/31/new-post/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+[2013-09-01 23:50:35] ERROR `/favicon.ico' not found.
+localhost - - [01/Sep/2013:23:50:35 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+[2013-09-01 23:50:36] ERROR `/favicon.ico' not found.
+localhost - - [01/Sep/2013:23:50:36 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [01/Sep/2013:23:50:36 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [01/Sep/2013:23:50:37 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [01/Sep/2013:23:50:37 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [01/Sep/2013:23:50:37 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [01/Sep/2013:23:50:37 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [01/Sep/2013:23:50:37 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [01/Sep/2013:23:50:37 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [01/Sep/2013:23:50:37 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [01/Sep/2013:23:50:37 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+[2013-09-01 23:50:38] ERROR `/favicon.ico' not found.
+localhost - - [01/Sep/2013:23:50:38 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+[2013-09-01 23:53:01] ERROR `/robots.txt' not found.
+localhost - - [01/Sep/2013:23:53:01 CST] "GET /robots.txt HTTP/1.0" 404 284
+- -> /robots.txt
+localhost - - [01/Sep/2013:23:53:01 CST] "GET /pages.html HTTP/1.0" 200 5854
+- -> /pages.html
+[2013-09-01 23:57:30] ERROR `/favicon.ico' not found.
+localhost - - [01/Sep/2013:23:57:30 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [01/Sep/2013:23:57:33 CST] "GET /2013/08/31/new-post HTTP/1.0" 301 72
+http://fengaili.com/ -> /2013/08/31/new-post
+localhost - - [01/Sep/2013:23:57:33 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 200 8445
+http://fengaili.com/ -> /2013/08/31/new-post/
+[2013-09-01 23:57:37] ERROR `/favicon.ico' not found.
+localhost - - [01/Sep/2013:23:57:37 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+[2013-09-01 23:58:02] ERROR `/favicon.ico' not found.
+localhost - - [01/Sep/2013:23:58:02 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [01/Sep/2013:23:58:23 CST] "GET /2013/08/23/normandy HTTP/1.0" 301 72
+http://fengaili.com/ -> /2013/08/23/normandy
+localhost - - [01/Sep/2013:23:58:23 CST] "GET /2013/08/23/normandy/ HTTP/1.0" 200 8365
+http://fengaili.com/ -> /2013/08/23/normandy/
+localhost - - [01/Sep/2013:23:59:36 CST] "GET / HTTP/1.0" 200 8349
+http://fengaili.com/ -> /
+localhost - - [02/Sep/2013:00:04:02 CST] "GET /rss.xml HTTP/1.0" 200 82288
+- -> /rss.xml
+localhost - - [02/Sep/2013:00:08:10 CST] "GET /atom.xml HTTP/1.0" 200 80831
+- -> /atom.xml
+localhost - - [02/Sep/2013:00:10:47 CST] "GET /sitemap.txt HTTP/1.0" 200 1264
+- -> /sitemap.txt
+localhost - - [02/Sep/2013:00:17:03 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:00:17:04 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [02/Sep/2013:00:17:04 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [02/Sep/2013:00:17:04 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [02/Sep/2013:00:17:04 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [02/Sep/2013:00:17:04 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [02/Sep/2013:00:17:04 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [02/Sep/2013:00:17:04 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [02/Sep/2013:00:17:04 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [02/Sep/2013:00:17:10 CST] "GET /2013/08/31/new-post HTTP/1.0" 301 72
+http://fengaili.com/ -> /2013/08/31/new-post
+localhost - - [02/Sep/2013:00:17:10 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 200 8445
+http://fengaili.com/ -> /2013/08/31/new-post/
+localhost - - [02/Sep/2013:00:43:00 CST] "GET /archive.html HTTP/1.0" 200 9008
+- -> /archive.html
+[2013-09-02 00:47:10] ERROR `/2013/09/01/new-post/' not found.
+localhost - - [02/Sep/2013:00:47:10 CST] "GET /2013/09/01/new-post/ HTTP/1.0" 404 294
+- -> /2013/09/01/new-post/
+localhost - - [02/Sep/2013:00:55:21 CST] "GET /2013/08/31/new-post HTTP/1.0" 301 72
+- -> /2013/08/31/new-post
+localhost - - [02/Sep/2013:00:55:22 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 200 8445
+- -> /2013/08/31/new-post/
+localhost - - [02/Sep/2013:01:03:00 CST] "GET /2013/08/10/yuntaishan HTTP/1.0" 301 76
+- -> /2013/08/10/yuntaishan
+localhost - - [02/Sep/2013:01:03:00 CST] "GET /2013/08/10/yuntaishan/ HTTP/1.0" 200 12717
+- -> /2013/08/10/yuntaishan/
+localhost - - [02/Sep/2013:01:12:59 CST] "GET /2012/11/16/regrex HTTP/1.0" 301 68
+- -> /2012/11/16/regrex
+localhost - - [02/Sep/2013:01:12:59 CST] "GET /2012/11/16/regrex/ HTTP/1.0" 200 8935
+- -> /2012/11/16/regrex/
+localhost - - [02/Sep/2013:01:22:59 CST] "GET /2012/12/12/vim HTTP/1.0" 301 62
+- -> /2012/12/12/vim
+localhost - - [02/Sep/2013:01:22:59 CST] "GET /2012/12/12/vim/ HTTP/1.0" 200 10574
+- -> /2012/12/12/vim/
+localhost - - [02/Sep/2013:01:33:00 CST] "GET /octopress/2012/10/17/octopress-style HTTP/1.0" 301 106
+- -> /octopress/2012/10/17/octopress-style
+localhost - - [02/Sep/2013:01:33:00 CST] "GET /octopress/2012/10/17/octopress-style/ HTTP/1.0" 200 9042
+- -> /octopress/2012/10/17/octopress-style/
+localhost - - [02/Sep/2013:01:56:17 CST] "GET /note/2012/10/11/sublime-snippets HTTP/1.0" 301 98
+- -> /note/2012/10/11/sublime-snippets
+localhost - - [02/Sep/2013:01:56:18 CST] "GET /note/2012/10/11/sublime-snippets/ HTTP/1.0" 200 9418
+- -> /note/2012/10/11/sublime-snippets/
+localhost - - [02/Sep/2013:02:34:14 CST] "HEAD / HTTP/1.0" 200 0
+- -> /
+localhost - - [02/Sep/2013:02:42:59 CST] "GET /2013/08/12/jekyll-setup HTTP/1.0" 301 80
+- -> /2013/08/12/jekyll-setup
+localhost - - [02/Sep/2013:02:43:00 CST] "GET /2013/08/12/jekyll-setup/ HTTP/1.0" 200 8697
+- -> /2013/08/12/jekyll-setup/
+[2013-09-02 02:47:26] ERROR `/2013/09/01/new-post/' not found.
+localhost - - [02/Sep/2013:02:47:26 CST] "GET /2013/09/01/new-post/ HTTP/1.0" 404 294
+- -> /2013/09/01/new-post/
+localhost - - [02/Sep/2013:02:53:00 CST] "GET /2013/08/27/code-highlight HTTP/1.0" 301 84
+- -> /2013/08/27/code-highlight
+localhost - - [02/Sep/2013:02:53:00 CST] "GET /2013/08/27/code-highlight/ HTTP/1.0" 200 8230
+- -> /2013/08/27/code-highlight/
+[2013-09-02 03:16:22] ERROR `/2013/07/31/hello-world' not found.
+localhost - - [02/Sep/2013:03:16:22 CST] "GET /2013/07/31/hello-world HTTP/1.0" 404 296
+- -> /2013/07/31/hello-world
+localhost - - [02/Sep/2013:03:35:07 CST] "GET /note,octopress/2012/10/16/octopress-recipe HTTP/1.0" 301 118
+- -> /note,octopress/2012/10/16/octopress-recipe
+localhost - - [02/Sep/2013:03:35:07 CST] "GET /note,octopress/2012/10/16/octopress-recipe/ HTTP/1.0" 200 9226
+- -> /note,octopress/2012/10/16/octopress-recipe/
+localhost - - [02/Sep/2013:03:35:14 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/note,octopress/2012/10/16/octopress-recipe -> /assets/themes/the-minimum/javascript/post.js
+[2013-09-02 03:53:00] ERROR `/note/octopress/2012/10/16/octopress-recipe' not found.
+localhost - - [02/Sep/2013:03:53:00 CST] "GET /note/octopress/2012/10/16/octopress-recipe HTTP/1.0" 404 316
+- -> /note/octopress/2012/10/16/octopress-recipe
+localhost - - [02/Sep/2013:04:52:36 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:05:33:04 CST] "GET /note,octopress/2012/10/16/octopress-recipe HTTP/1.0" 301 118
+- -> /note,octopress/2012/10/16/octopress-recipe
+localhost - - [02/Sep/2013:05:33:04 CST] "GET /note,octopress/2012/10/16/octopress-recipe/ HTTP/1.0" 200 9226
+- -> /note,octopress/2012/10/16/octopress-recipe/
+localhost - - [02/Sep/2013:05:43:00 CST] "GET /2013/08/26/shell-table HTTP/1.0" 301 78
+- -> /2013/08/26/shell-table
+localhost - - [02/Sep/2013:05:43:00 CST] "GET /2013/08/26/shell-table/ HTTP/1.0" 200 26204
+- -> /2013/08/26/shell-table/
+localhost - - [02/Sep/2013:06:18:03 CST] "GET /archive.html HTTP/1.0" 200 9008
+- -> /archive.html
+localhost - - [02/Sep/2013:06:42:26 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+- -> /assets/themes/the-minimum/css/module.css
+localhost - - [02/Sep/2013:06:42:27 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+- -> /assets/themes/the-minimum/css/helper.css
+localhost - - [02/Sep/2013:06:42:27 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+- -> /assets/themes/the-minimum/css/base.css
+localhost - - [02/Sep/2013:06:42:27 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+- -> /assets/themes/the-minimum/css/pygments.css
+[2013-09-02 06:42:28] ERROR `/assets/themes/the-minimum/css/syntaxhighlighter.css' not found.
+localhost - - [02/Sep/2013:06:42:28 CST] "GET /assets/themes/the-minimum/css/syntaxhighlighter.css HTTP/1.0" 404 325
+- -> /assets/themes/the-minimum/css/syntaxhighlighter.css
+localhost - - [02/Sep/2013:06:42:28 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+- -> /assets/themes/the-minimum/css/style.css
+localhost - - [02/Sep/2013:06:42:32 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+[2013-09-02 06:47:37] ERROR `/2013/09/01/new-post/' not found.
+localhost - - [02/Sep/2013:06:47:37 CST] "GET /2013/09/01/new-post/ HTTP/1.0" 404 294
+- -> /2013/09/01/new-post/
+localhost - - [02/Sep/2013:07:56:05 CST] "GET /2013/08/23/normandy HTTP/1.0" 301 72
+- -> /2013/08/23/normandy
+localhost - - [02/Sep/2013:07:56:06 CST] "GET /2013/08/23/normandy/ HTTP/1.0" 200 8365
+- -> /2013/08/23/normandy/
+localhost - - [02/Sep/2013:07:56:35 CST] "GET /2013/08/11/new-post HTTP/1.0" 301 72
+- -> /2013/08/11/new-post
+localhost - - [02/Sep/2013:07:56:35 CST] "GET /2013/08/11/new-post/ HTTP/1.0" 200 8987
+- -> /2013/08/11/new-post/
+[2013-09-02 08:31:04] ERROR `/favicon.ico' not found.
+localhost - - [02/Sep/2013:08:31:04 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+[2013-09-02 08:31:05] ERROR `/favicon.ico' not found.
+localhost - - [02/Sep/2013:08:31:05 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [02/Sep/2013:08:33:00 CST] "GET /note/2012/10/17/octopress-tip HTTP/1.0" 301 92
+- -> /note/2012/10/17/octopress-tip
+localhost - - [02/Sep/2013:08:33:01 CST] "GET /note/2012/10/17/octopress-tip/ HTTP/1.0" 200 8602
+- -> /note/2012/10/17/octopress-tip/
+localhost - - [02/Sep/2013:08:43:00 CST] "GET /index.html HTTP/1.0" 200 8349
+- -> /index.html
+localhost - - [02/Sep/2013:09:03:00 CST] "GET /essay/2012/10/17/rent HTTP/1.0" 301 76
+- -> /essay/2012/10/17/rent
+localhost - - [02/Sep/2013:09:03:01 CST] "GET /essay/2012/10/17/rent/ HTTP/1.0" 200 11425
+- -> /essay/2012/10/17/rent/
+localhost - - [02/Sep/2013:09:12:59 CST] "GET /2013/08/09/close-java-process HTTP/1.0" 301 92
+- -> /2013/08/09/close-java-process
+localhost - - [02/Sep/2013:09:13:04 CST] "GET /2013/08/09/close-java-process/ HTTP/1.0" 200 15550
+- -> /2013/08/09/close-java-process/
+localhost - - [02/Sep/2013:09:22:59 CST] "GET /categories.html HTTP/1.0" 200 6652
+- -> /categories.html
+localhost - - [02/Sep/2013:09:28:00 CST] "GET /2013/07/30/test HTTP/1.0" 301 64
+- -> /2013/07/30/test
+localhost - - [02/Sep/2013:09:28:01 CST] "GET /2013/07/30/test/ HTTP/1.0" 200 10547
+- -> /2013/07/30/test/
+localhost - - [02/Sep/2013:09:34:07 CST] "GET /note/2012/10/17/octopress-tip HTTP/1.0" 301 92
+- -> /note/2012/10/17/octopress-tip
+localhost - - [02/Sep/2013:09:34:08 CST] "GET /note/2012/10/17/octopress-tip/ HTTP/1.0" 200 8602
+- -> /note/2012/10/17/octopress-tip/
+localhost - - [02/Sep/2013:09:43:00 CST] "GET /note/2012/06/17/django-note HTTP/1.0" 301 88
+- -> /note/2012/06/17/django-note
+localhost - - [02/Sep/2013:09:43:01 CST] "GET /note/2012/06/17/django-note/ HTTP/1.0" 200 9904
+- -> /note/2012/06/17/django-note/
+localhost - - [02/Sep/2013:09:52:59 CST] "GET /tags.html HTTP/1.0" 200 6009
+- -> /tags.html
+[2013-09-02 10:06:29] ERROR `/lessons/2011/12/29/jekyll-introduction' not found.
+localhost - - [02/Sep/2013:10:06:29 CST] "GET /lessons/2011/12/29/jekyll-introduction HTTP/1.0" 404 312
+- -> /lessons/2011/12/29/jekyll-introduction
+localhost - - [02/Sep/2013:10:43:00 CST] "GET /2013/08/09/test-code HTTP/1.0" 301 74
+- -> /2013/08/09/test-code
+localhost - - [02/Sep/2013:10:43:01 CST] "GET /2013/08/09/test-code/ HTTP/1.0" 200 8181
+- -> /2013/08/09/test-code/
+localhost - - [02/Sep/2013:10:50:45 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:10:52:45 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:11:22:59 CST] "GET /2013/07/31/jekyll-tips HTTP/1.0" 301 78
+- -> /2013/07/31/jekyll-tips
+localhost - - [02/Sep/2013:11:23:00 CST] "GET /2013/07/31/jekyll-tips/ HTTP/1.0" 200 8177
+- -> /2013/07/31/jekyll-tips/
+localhost - - [02/Sep/2013:12:49:42 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:12:53:43 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:13:06:54 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [02/Sep/2013:13:06:54 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [02/Sep/2013:13:06:57 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:13:06:57 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [02/Sep/2013:13:06:57 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [02/Sep/2013:13:06:57 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [02/Sep/2013:13:06:57 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [02/Sep/2013:13:06:57 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [02/Sep/2013:13:06:57 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [02/Sep/2013:13:07:03 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [02/Sep/2013:13:07:03 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [02/Sep/2013:13:07:11 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:13:07:11 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [02/Sep/2013:13:07:16 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [02/Sep/2013:13:07:16 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [02/Sep/2013:13:07:16 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [02/Sep/2013:13:07:16 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [02/Sep/2013:13:07:16 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [02/Sep/2013:13:07:16 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [02/Sep/2013:13:07:18 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [02/Sep/2013:13:07:21 CST] "GET /2013/08/26/shell-table HTTP/1.0" 301 78
+http://fengaili.com/ -> /2013/08/26/shell-table
+localhost - - [02/Sep/2013:13:07:21 CST] "GET /2013/08/26/shell-table/ HTTP/1.0" 200 26204
+http://fengaili.com/ -> /2013/08/26/shell-table/
+localhost - - [02/Sep/2013:13:18:30 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:13:18:31 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [02/Sep/2013:13:18:31 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [02/Sep/2013:13:18:31 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [02/Sep/2013:13:18:31 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [02/Sep/2013:13:18:31 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [02/Sep/2013:13:18:31 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [02/Sep/2013:13:18:31 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [02/Sep/2013:13:18:31 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+[2013-09-02 13:18:34] ERROR `/favicon.ico' not found.
+localhost - - [02/Sep/2013:13:18:34 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [02/Sep/2013:13:18:36 CST] "GET /2013/08/27/code-highlight HTTP/1.0" 301 84
+http://fengaili.com/ -> /2013/08/27/code-highlight
+localhost - - [02/Sep/2013:13:18:36 CST] "GET /2013/08/27/code-highlight/ HTTP/1.0" 200 8230
+http://fengaili.com/ -> /2013/08/27/code-highlight/
+[2013-09-02 13:18:36] ERROR `/favicon.ico' not found.
+localhost - - [02/Sep/2013:13:18:36 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+[2013-09-02 13:18:41] ERROR `/favicon.ico' not found.
+localhost - - [02/Sep/2013:13:18:41 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [02/Sep/2013:13:18:43 CST] "GET /2013/08/12/jekyll-setup HTTP/1.0" 301 80
+http://fengaili.com/ -> /2013/08/12/jekyll-setup
+localhost - - [02/Sep/2013:13:18:43 CST] "GET /2013/08/12/jekyll-setup/ HTTP/1.0" 200 8697
+http://fengaili.com/ -> /2013/08/12/jekyll-setup/
+[2013-09-02 13:18:43] ERROR `/favicon.ico' not found.
+localhost - - [02/Sep/2013:13:18:43 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+[2013-09-02 13:19:08] ERROR `/favicon.ico' not found.
+localhost - - [02/Sep/2013:13:19:08 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [02/Sep/2013:13:19:12 CST] "GET /2013/08/11/new-post HTTP/1.0" 301 72
+http://fengaili.com/ -> /2013/08/11/new-post
+localhost - - [02/Sep/2013:13:19:12 CST] "GET /2013/08/11/new-post/ HTTP/1.0" 200 8987
+http://fengaili.com/ -> /2013/08/11/new-post/
+[2013-09-02 13:19:12] ERROR `/favicon.ico' not found.
+localhost - - [02/Sep/2013:13:19:12 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [02/Sep/2013:13:48:38 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:13:53:53 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:14:52:52 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:14:56:00 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:15:53:47 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:15:54:42 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:16:05:07 CST] "HEAD / HTTP/1.0" 200 0
+- -> /
+localhost - - [02/Sep/2013:16:11:16 CST] "GET /2013/08/09/test-code HTTP/1.0" 301 74
+- -> /2013/08/09/test-code
+localhost - - [02/Sep/2013:16:11:16 CST] "GET /2013/08/09/test-code/ HTTP/1.0" 200 8181
+- -> /2013/08/09/test-code/
+localhost - - [02/Sep/2013:16:11:24 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/2013/08/09/test-code -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [02/Sep/2013:16:53:58 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:16:54:49 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:18:05:55 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:18:08:29 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:19:48:17 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:19:51:53 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:20:23:58 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:20:23:58 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [02/Sep/2013:20:23:58 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [02/Sep/2013:20:23:58 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [02/Sep/2013:20:23:58 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [02/Sep/2013:20:23:58 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [02/Sep/2013:20:23:58 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [02/Sep/2013:20:23:59 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [02/Sep/2013:20:23:59 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [02/Sep/2013:20:24:04 CST] "GET /2013/08/31/new-post HTTP/1.0" 301 72
+http://fengaili.com/ -> /2013/08/31/new-post
+localhost - - [02/Sep/2013:20:24:04 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 200 8445
+http://fengaili.com/ -> /2013/08/31/new-post/
+localhost - - [02/Sep/2013:20:48:33 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:20:56:22 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:21:51:08 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:21:53:07 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:22:11:49 CST] "GET /essay/2012/10/17/rent HTTP/1.0" 301 76
+- -> /essay/2012/10/17/rent
+localhost - - [02/Sep/2013:22:11:49 CST] "GET /essay/2012/10/17/rent/ HTTP/1.0" 200 11425
+- -> /essay/2012/10/17/rent/
+localhost - - [02/Sep/2013:22:11:56 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/essay/2012/10/17/rent -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [02/Sep/2013:22:50:36 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:22:56:42 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:23:49:25 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [02/Sep/2013:23:56:35 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:01:07:10 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:01:11:59 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:02:06:03 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:02:09:01 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:02:49:07 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:02:52:09 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:03:48:44 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:03:50:02 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:03:56:14 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:04:45:25 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:04:46:32 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:05:46:26 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:05:47:47 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:06:28:14 CST] "GET /2012/11/16/regrex HTTP/1.0" 301 68
+- -> /2012/11/16/regrex
+localhost - - [03/Sep/2013:06:28:14 CST] "GET /2012/11/16/regrex/ HTTP/1.0" 200 8935
+- -> /2012/11/16/regrex/
+localhost - - [03/Sep/2013:06:49:26 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:06:49:31 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:07:49:45 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:07:50:47 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:09:51:37 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:09:53:48 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:10:52:39 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:10:57:52 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+[2013-09-03 11:50:09] ERROR `/favicon.ico' not found.
+localhost - - [03/Sep/2013:11:50:09 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+[2013-09-03 11:50:09] ERROR `/favicon.ico' not found.
+localhost - - [03/Sep/2013:11:50:09 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+[2013-09-03 11:50:09] ERROR `/favicon.ico' not found.
+localhost - - [03/Sep/2013:11:50:09 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [03/Sep/2013:11:51:07 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:11:57:17 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:12:26:49 CST] "GET /note,octopress/2012/10/16/octopress-recipe HTTP/1.0" 301 118
+- -> /note,octopress/2012/10/16/octopress-recipe
+localhost - - [03/Sep/2013:12:26:49 CST] "GET /note,octopress/2012/10/16/octopress-recipe/ HTTP/1.0" 200 9226
+- -> /note,octopress/2012/10/16/octopress-recipe/
+localhost - - [03/Sep/2013:12:51:04 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:12:51:53 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:13:26:12 CST] "GET /2013/08/09/close-java-process HTTP/1.0" 301 92
+- -> /2013/08/09/close-java-process
+localhost - - [03/Sep/2013:13:26:15 CST] "GET /2013/08/09/close-java-process/ HTTP/1.0" 200 15550
+- -> /2013/08/09/close-java-process/
+localhost - - [03/Sep/2013:13:51:17 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:13:53:26 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:14:39:27 CST] "HEAD / HTTP/1.0" 200 0
+- -> /
+localhost - - [03/Sep/2013:15:35:30 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+[2013-09-03 16:12:31] ERROR `/phpmyadmin/' not found.
+localhost - - [03/Sep/2013:16:12:31 CST] "GET /phpmyadmin/ HTTP/1.0" 404 285
+- -> /phpmyadmin/
+[2013-09-03 16:12:32] ERROR `/phpMyAdmin/' not found.
+localhost - - [03/Sep/2013:16:12:32 CST] "GET /phpMyAdmin/ HTTP/1.0" 404 285
+- -> /phpMyAdmin/
+[2013-09-03 16:12:32] ERROR `/PMA/' not found.
+localhost - - [03/Sep/2013:16:12:32 CST] "GET /PMA/ HTTP/1.0" 404 278
+- -> /PMA/
+[2013-09-03 16:12:33] ERROR `/pma/' not found.
+localhost - - [03/Sep/2013:16:12:33 CST] "GET /pma/ HTTP/1.0" 404 278
+- -> /pma/
+[2013-09-03 16:12:33] ERROR `/admin/' not found.
+localhost - - [03/Sep/2013:16:12:33 CST] "GET /admin/ HTTP/1.0" 404 280
+- -> /admin/
+[2013-09-03 16:12:34] ERROR `/dbadmin/' not found.
+localhost - - [03/Sep/2013:16:12:34 CST] "GET /dbadmin/ HTTP/1.0" 404 282
+- -> /dbadmin/
+[2013-09-03 16:12:34] ERROR `/sql/' not found.
+localhost - - [03/Sep/2013:16:12:34 CST] "GET /sql/ HTTP/1.0" 404 278
+- -> /sql/
+[2013-09-03 16:12:35] ERROR `/mysql/' not found.
+localhost - - [03/Sep/2013:16:12:35 CST] "GET /mysql/ HTTP/1.0" 404 280
+- -> /mysql/
+[2013-09-03 16:12:35] ERROR `/myadmin/' not found.
+localhost - - [03/Sep/2013:16:12:35 CST] "GET /myadmin/ HTTP/1.0" 404 282
+- -> /myadmin/
+[2013-09-03 16:12:36] ERROR `/phpmyadmin2/' not found.
+localhost - - [03/Sep/2013:16:12:36 CST] "GET /phpmyadmin2/ HTTP/1.0" 404 286
+- -> /phpmyadmin2/
+[2013-09-03 16:12:36] ERROR `/phpMyAdmin2/' not found.
+localhost - - [03/Sep/2013:16:12:36 CST] "GET /phpMyAdmin2/ HTTP/1.0" 404 286
+- -> /phpMyAdmin2/
+[2013-09-03 16:12:37] ERROR `/phpMyAdmin-2/' not found.
+localhost - - [03/Sep/2013:16:12:37 CST] "GET /phpMyAdmin-2/ HTTP/1.0" 404 287
+- -> /phpMyAdmin-2/
+[2013-09-03 16:12:37] ERROR `/php-my-admin/' not found.
+localhost - - [03/Sep/2013:16:12:37 CST] "GET /php-my-admin/ HTTP/1.0" 404 287
+- -> /php-my-admin/
+[2013-09-03 16:12:38] ERROR `/sqlmanager/' not found.
+localhost - - [03/Sep/2013:16:12:38 CST] "GET /sqlmanager/ HTTP/1.0" 404 285
+- -> /sqlmanager/
+[2013-09-03 16:12:38] ERROR `/mysqlmanager/' not found.
+localhost - - [03/Sep/2013:16:12:38 CST] "GET /mysqlmanager/ HTTP/1.0" 404 287
+- -> /mysqlmanager/
+[2013-09-03 16:12:39] ERROR `/p/m/a/' not found.
+localhost - - [03/Sep/2013:16:12:39 CST] "GET /p/m/a/ HTTP/1.0" 404 280
+- -> /p/m/a/
+[2013-09-03 16:12:39] ERROR `/php-myadmin/' not found.
+localhost - - [03/Sep/2013:16:12:39 CST] "GET /php-myadmin/ HTTP/1.0" 404 286
+- -> /php-myadmin/
+[2013-09-03 16:12:40] ERROR `/phpmy-admin/' not found.
+localhost - - [03/Sep/2013:16:12:40 CST] "GET /phpmy-admin/ HTTP/1.0" 404 286
+- -> /phpmy-admin/
+[2013-09-03 16:12:40] ERROR `/webadmin/' not found.
+localhost - - [03/Sep/2013:16:12:40 CST] "GET /webadmin/ HTTP/1.0" 404 283
+- -> /webadmin/
+[2013-09-03 16:12:41] ERROR `/sqlweb/' not found.
+localhost - - [03/Sep/2013:16:12:41 CST] "GET /sqlweb/ HTTP/1.0" 404 281
+- -> /sqlweb/
+[2013-09-03 16:12:42] ERROR `/websql/' not found.
+localhost - - [03/Sep/2013:16:12:42 CST] "GET /websql/ HTTP/1.0" 404 281
+- -> /websql/
+[2013-09-03 16:12:42] ERROR `/webdb/' not found.
+localhost - - [03/Sep/2013:16:12:42 CST] "GET /webdb/ HTTP/1.0" 404 280
+- -> /webdb/
+[2013-09-03 16:12:43] ERROR `/mysqladmin/' not found.
+localhost - - [03/Sep/2013:16:12:43 CST] "GET /mysqladmin/ HTTP/1.0" 404 285
+- -> /mysqladmin/
+[2013-09-03 16:12:43] ERROR `/mysql-admin/' not found.
+localhost - - [03/Sep/2013:16:12:43 CST] "GET /mysql-admin/ HTTP/1.0" 404 286
+- -> /mysql-admin/
+localhost - - [03/Sep/2013:16:23:13 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:16:48:01 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:16:50:19 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+[2013-09-03 17:09:59] ERROR `/doc' not found.
+localhost - - [03/Sep/2013:17:09:59 CST] "GET /doc HTTP/1.0" 404 277
+- -> /doc
+localhost - - [03/Sep/2013:17:10:04 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:17:10:04 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://223.202.45.155/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [03/Sep/2013:17:10:05 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://223.202.45.155/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [03/Sep/2013:17:10:05 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://223.202.45.155/assets/themes/the-minimum/css/style.css -> /assets/themes/the-minimum/css/base.css
+localhost - - [03/Sep/2013:17:10:05 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://223.202.45.155/assets/themes/the-minimum/css/style.css -> /assets/themes/the-minimum/css/helper.css
+localhost - - [03/Sep/2013:17:10:05 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://223.202.45.155/assets/themes/the-minimum/css/style.css -> /assets/themes/the-minimum/css/module.css
+localhost - - [03/Sep/2013:17:10:05 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://223.202.45.155/assets/themes/the-minimum/css/style.css -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [03/Sep/2013:17:10:06 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://223.202.45.155/assets/themes/the-minimum/css/style.css -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [03/Sep/2013:17:10:06 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://223.202.45.155/assets/themes/the-minimum/css/style.css -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+[2013-09-03 17:10:28] ERROR `/doc/' not found.
+localhost - - [03/Sep/2013:17:10:28 CST] "GET /doc/ HTTP/1.0" 404 278
+- -> /doc/
+[2013-09-03 17:10:45] ERROR `/doc/CentOS-6.2-x86_64.img.tar.gz' not found.
+localhost - - [03/Sep/2013:17:10:45 CST] "GET /doc/CentOS-6.2-x86_64.img.tar.gz HTTP/1.0" 404 306
+- -> /doc/CentOS-6.2-x86_64.img.tar.gz
+[2013-09-03 17:11:26] ERROR `/doc/CentOS-6.2-x86_64.img.tar.gz' not found.
+localhost - - [03/Sep/2013:17:11:26 CST] "GET /doc/CentOS-6.2-x86_64.img.tar.gz HTTP/1.0" 404 306
+- -> /doc/CentOS-6.2-x86_64.img.tar.gz
+[2013-09-03 17:11:32] ERROR `/doc/CentOS-6.2-x86_64.img.tar.gz' not found.
+localhost - - [03/Sep/2013:17:11:32 CST] "GET /doc/CentOS-6.2-x86_64.img.tar.gz HTTP/1.0" 404 306
+- -> /doc/CentOS-6.2-x86_64.img.tar.gz
+[2013-09-03 17:11:52] ERROR `/tmp/doc/CentOS-6.2-x86_64.img.tar.gz' not found.
+localhost - - [03/Sep/2013:17:11:52 CST] "GET /tmp/doc/CentOS-6.2-x86_64.img.tar.gz HTTP/1.0" 404 310
+- -> /tmp/doc/CentOS-6.2-x86_64.img.tar.gz
+localhost - - [03/Sep/2013:17:54:19 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:18:03:15 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:20:39:00 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:20:39:18 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:20:39:18 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [03/Sep/2013:20:39:18 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+[2013-09-03 20:39:18] ERROR `/favicon.ico' not found.
+localhost - - [03/Sep/2013:20:39:18 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [03/Sep/2013:20:39:21 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [03/Sep/2013:20:39:21 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [03/Sep/2013:20:39:21 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [03/Sep/2013:20:39:21 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [03/Sep/2013:20:39:21 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [03/Sep/2013:20:39:21 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [03/Sep/2013:20:39:21 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [03/Sep/2013:20:39:21 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [03/Sep/2013:20:39:21 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [03/Sep/2013:20:40:25 CST] "GET / HTTP/1.0" 200 8349
+http://www.fengaili.com/ -> /
+localhost - - [03/Sep/2013:20:40:54 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:20:40:54 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [03/Sep/2013:20:40:54 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [03/Sep/2013:20:40:54 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [03/Sep/2013:20:40:54 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [03/Sep/2013:20:40:54 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [03/Sep/2013:20:40:54 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [03/Sep/2013:20:40:54 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://www.fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [03/Sep/2013:20:40:54 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://www.fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+[2013-09-03 20:40:55] ERROR `/favicon.ico' not found.
+localhost - - [03/Sep/2013:20:40:55 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [03/Sep/2013:20:40:57 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [03/Sep/2013:20:40:58 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [03/Sep/2013:20:40:58 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [03/Sep/2013:20:40:58 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [03/Sep/2013:20:40:58 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [03/Sep/2013:20:40:58 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [03/Sep/2013:20:40:58 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [03/Sep/2013:20:40:58 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://www.fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [03/Sep/2013:20:40:58 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://www.fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [03/Sep/2013:20:42:34 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [03/Sep/2013:20:42:34 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [03/Sep/2013:20:42:34 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://www.fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [03/Sep/2013:20:42:34 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [03/Sep/2013:20:42:34 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [03/Sep/2013:20:42:34 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [03/Sep/2013:20:42:34 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://www.fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [03/Sep/2013:20:42:34 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://www.fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [03/Sep/2013:20:42:34 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://www.fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [03/Sep/2013:20:42:38 CST] "GET /2013/08/31/new-post HTTP/1.0" 301 72
+http://www.fengaili.com/ -> /2013/08/31/new-post
+localhost - - [03/Sep/2013:20:42:39 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 200 8445
+http://www.fengaili.com/ -> /2013/08/31/new-post/
+localhost - - [03/Sep/2013:20:44:36 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [03/Sep/2013:20:44:36 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [03/Sep/2013:20:44:36 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [03/Sep/2013:20:44:36 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [03/Sep/2013:20:44:36 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [03/Sep/2013:20:44:36 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [03/Sep/2013:20:44:36 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [03/Sep/2013:20:44:36 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [03/Sep/2013:20:44:36 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [03/Sep/2013:20:47:24 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:20:49:06 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:21:27:20 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:21:49:01 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:21:58:51 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:22:47:19 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:22:55:33 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+[2013-09-03 23:09:27] ERROR `/robots.txt' not found.
+localhost - - [03/Sep/2013:23:09:27 CST] "GET /robots.txt HTTP/1.0" 404 284
+- -> /robots.txt
+localhost - - [03/Sep/2013:23:09:27 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:23:47:13 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [03/Sep/2013:23:48:40 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:01:04:13 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:01:05:52 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:01:21:57 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+- -> /assets/themes/the-minimum/css/helper.css
+localhost - - [04/Sep/2013:01:21:58 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+- -> /assets/themes/the-minimum/css/base.css
+localhost - - [04/Sep/2013:01:21:58 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+- -> /assets/themes/the-minimum/css/style.css
+[2013-09-04 01:42:06] ERROR `/apple-touch-icon-precomposed.png' not found.
+localhost - - [04/Sep/2013:01:42:06 CST] "GET /apple-touch-icon-precomposed.png HTTP/1.0" 404 306
+- -> /apple-touch-icon-precomposed.png
+localhost - - [04/Sep/2013:02:50:46 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:02:51:21 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:03:55:07 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:03:56:38 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:04:42:14 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:04:55:10 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+[2013-09-04 04:55:29] ERROR `/robots.txt' not found.
+localhost - - [04/Sep/2013:04:55:29 CST] "GET /robots.txt HTTP/1.0" 404 284
+- -> /robots.txt
+localhost - - [04/Sep/2013:04:55:30 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+- -> /assets/themes/the-minimum/css/module.css
+localhost - - [04/Sep/2013:04:56:36 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:05:05:50 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+- -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [04/Sep/2013:05:15:03 CST] "GET /2013/08/10/yuntaishan HTTP/1.0" 301 76
+- -> /2013/08/10/yuntaishan
+localhost - - [04/Sep/2013:05:15:03 CST] "GET /2013/08/10/yuntaishan/ HTTP/1.0" 200 12717
+- -> /2013/08/10/yuntaishan/
+localhost - - [04/Sep/2013:05:15:09 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/2013/08/10/yuntaishan -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [04/Sep/2013:05:52:37 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:05:54:00 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:06:49:17 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:06:50:35 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:07:23:18 CST] "GET /archive.html HTTP/1.0" 200 9008
+- -> /archive.html
+localhost - - [04/Sep/2013:08:49:31 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:08:51:16 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:09:53:06 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:09:54:53 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:10:54:33 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:10:58:50 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:11:12:42 CST] "GET /note/2012/06/17/django-note HTTP/1.0" 301 88
+- -> /note/2012/06/17/django-note
+localhost - - [04/Sep/2013:11:12:42 CST] "GET /note/2012/06/17/django-note/ HTTP/1.0" 200 9904
+- -> /note/2012/06/17/django-note/
+localhost - - [04/Sep/2013:11:12:49 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/note/2012/06/17/django-note -> /assets/themes/the-minimum/javascript/post.js
+[2013-09-04 11:24:27] ERROR `/robots.txt' not found.
+localhost - - [04/Sep/2013:11:24:27 CST] "GET /robots.txt HTTP/1.0" 404 284
+- -> /robots.txt
+localhost - - [04/Sep/2013:11:51:07 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:11:52:39 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:12:49:53 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:12:50:49 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:12:56:28 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:13:06:20 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+[2013-09-04 13:46:34] ERROR `/favicon.ico' not found.
+localhost - - [04/Sep/2013:13:46:34 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [04/Sep/2013:14:53:49 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:14:55:23 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:15:00:23 CST] "GET / HTTP/1.0" 200 8349
+http://fengaili.com/ -> /
+localhost - - [04/Sep/2013:15:13:47 CST] "GET / HTTP/1.0" 200 8349
+ -> /
+localhost - - [04/Sep/2013:15:54:52 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:15:57:22 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:16:51:56 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:16:54:57 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:18:04:00 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:18:05:42 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:18:54:17 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:18:54:24 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:18:57:44 CST] "GET /2013/08/12/jekyll-setup HTTP/1.0" 301 80
+- -> /2013/08/12/jekyll-setup
+localhost - - [04/Sep/2013:18:57:44 CST] "GET /2013/08/12/jekyll-setup/ HTTP/1.0" 200 8697
+- -> /2013/08/12/jekyll-setup/
+localhost - - [04/Sep/2013:18:58:05 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:19:50:07 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:19:53:22 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+[2013-09-04 20:58:46] ERROR `/favicon.ico' not found.
+localhost - - [04/Sep/2013:20:58:46 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [04/Sep/2013:21:53:01 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:21:55:46 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:22:53:52 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:22:57:03 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:23:50:07 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [04/Sep/2013:23:54:00 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:00:35:43 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:01:09:49 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:01:18:34 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:02:12:12 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:02:13:06 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:02:49:00 CST] "GET /2013/07/30/test HTTP/1.0" 301 64
+- -> /2013/07/30/test
+localhost - - [05/Sep/2013:02:49:00 CST] "GET /2013/07/30/test/ HTTP/1.0" 200 10547
+- -> /2013/07/30/test/
+localhost - - [05/Sep/2013:02:53:27 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:02:55:00 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:03:50:35 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:03:50:45 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+[2013-09-05 04:52:41] ERROR `/robots.txt' not found.
+localhost - - [05/Sep/2013:04:52:41 CST] "GET /robots.txt HTTP/1.0" 404 284
+- -> /robots.txt
+localhost - - [05/Sep/2013:04:52:41 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:05:48:46 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:05:49:23 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:06:50:15 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:06:51:13 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:07:06:33 CST] "GET /2013/07/31/jekyll-tips/ HTTP/1.0" 200 8177
+- -> /2013/07/31/jekyll-tips/
+localhost - - [05/Sep/2013:07:12:23 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+- -> /assets/themes/the-minimum/css/base.css
+localhost - - [05/Sep/2013:07:12:23 CST] "GET /assets/themes/the-minimum/javascript/run_prettify.js HTTP/1.0" 200 16682
+- -> /assets/themes/the-minimum/javascript/run_prettify.js
+localhost - - [05/Sep/2013:07:12:24 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+- -> /assets/themes/the-minimum/css/style.css
+localhost - - [05/Sep/2013:07:12:27 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/2013/07/31/jekyll-tips/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [05/Sep/2013:07:51:01 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:07:52:18 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:08:52:00 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:08:52:12 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+[2013-09-05 09:18:06] ERROR `/nagios/' not found.
+localhost - - [05/Sep/2013:09:18:06 CST] "GET /nagios/ HTTP/1.0" 404 281
+- -> /nagios/
+localhost - - [05/Sep/2013:09:21:52 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+- -> /assets/themes/the-minimum/css/module.css
+localhost - - [05/Sep/2013:09:22:02 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+- -> /assets/themes/the-minimum/css/helper.css
+localhost - - [05/Sep/2013:10:02:54 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:10:04:23 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:10:54:41 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:10:54:51 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:11:40:33 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 200 8445
+- -> /2013/08/31/new-post/
+localhost - - [05/Sep/2013:11:54:52 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:11:57:37 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:12:52:28 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:12:58:14 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:13:55:57 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:13:59:44 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:14:12:17 CST] "GET /tags.html HTTP/1.0" 200 6009
+- -> /tags.html
+localhost - - [05/Sep/2013:14:51:35 CST] "HEAD / HTTP/1.0" 200 0
+- -> /
+localhost - - [05/Sep/2013:14:52:40 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:15:01:48 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:15:47:27 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 304 0
+- -> /2013/08/31/new-post/
+[2013-09-05 15:53:56] ERROR `/favicon.ico' not found.
+localhost - - [05/Sep/2013:15:53:56 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+[2013-09-05 15:53:56] ERROR `/favicon.ico' not found.
+localhost - - [05/Sep/2013:15:53:56 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [05/Sep/2013:15:53:56 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [05/Sep/2013:15:53:57 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+[2013-09-05 15:53:57] ERROR `/favicon.ico' not found.
+localhost - - [05/Sep/2013:15:53:57 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [05/Sep/2013:15:53:59 CST] "GET / HTTP/1.0" 304 0
+- -> /
+localhost - - [05/Sep/2013:15:53:59 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [05/Sep/2013:15:53:59 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [05/Sep/2013:15:53:59 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [05/Sep/2013:15:53:59 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [05/Sep/2013:15:53:59 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [05/Sep/2013:15:53:59 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [05/Sep/2013:15:53:59 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [05/Sep/2013:15:53:59 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 304 0
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+[2013-09-05 15:53:59] ERROR `/favicon.ico' not found.
+localhost - - [05/Sep/2013:15:53:59 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [05/Sep/2013:15:54:01 CST] "GET /2013/08/31/new-post/ HTTP/1.0" 304 0
+http://fengaili.com/ -> /2013/08/31/new-post/
+[2013-09-05 15:54:06] ERROR `/favicon.ico' not found.
+localhost - - [05/Sep/2013:15:54:06 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+[2013-09-05 15:54:07] ERROR `/favicon.ico' not found.
+localhost - - [05/Sep/2013:15:54:07 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+[2013-09-05 15:54:08] ERROR `/favicon.ico' not found.
+localhost - - [05/Sep/2013:15:54:08 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+[2013-09-05 15:54:08] ERROR `/favicon.ico' not found.
+localhost - - [05/Sep/2013:15:54:08 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [05/Sep/2013:15:56:56 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:15:56:57 CST] "GET / HTTP/1.0" 200 8349
+http://fengaili.com/ -> /
+localhost - - [05/Sep/2013:15:58:46 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:17:00:56 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:17:02:33 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:18:08:52 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:18:10:19 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:18:59:43 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:19:00:25 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:20:00:28 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:20:03:17 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:20:54:16 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:22:02:18 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:22:56:33 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+[2013-09-05 23:44:41] ERROR `/robots.txt' not found.
+localhost - - [05/Sep/2013:23:44:41 CST] "GET /robots.txt HTTP/1.0" 404 284
+- -> /robots.txt
+localhost - - [05/Sep/2013:23:44:42 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [05/Sep/2013:23:45:15 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:00:02:51 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:01:13:31 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+[2013-09-06 01:42:19] ERROR `/robots.txt' not found.
+localhost - - [06/Sep/2013:01:42:19 CST] "GET /robots.txt HTTP/1.0" 404 284
+- -> /robots.txt
+localhost - - [06/Sep/2013:01:42:19 CST] "GET /sitemap.xml HTTP/1.0" 200 3155
+- -> /sitemap.xml
+localhost - - [06/Sep/2013:02:08:57 CST] "HEAD / HTTP/1.0" 200 0
+http://www.netcraft.com/survey/ -> /
+localhost - - [06/Sep/2013:02:20:22 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:02:55:58 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:03:57:03 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:04:58:57 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:05:23:38 CST] "GET /2013/08/23/normandy HTTP/1.0" 301 72
+- -> /2013/08/23/normandy
+localhost - - [06/Sep/2013:05:23:38 CST] "GET /2013/08/23/normandy/ HTTP/1.0" 200 8365
+- -> /2013/08/23/normandy/
+[2013-09-06 05:42:35] ERROR `/robots.txt' not found.
+localhost - - [06/Sep/2013:05:42:35 CST] "GET /robots.txt HTTP/1.0" 404 284
+- -> /robots.txt
+localhost - - [06/Sep/2013:05:54:37 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:06:55:08 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:07:23:45 CST] "GET /archive.html HTTP/1.0" 200 9008
+- -> /archive.html
+localhost - - [06/Sep/2013:09:01:20 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:10:04:33 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:10:06:51 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:10:10:31 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+[2013-09-06 10:10:31] ERROR `/favicon.ico' not found.
+localhost - - [06/Sep/2013:10:10:31 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+localhost - - [06/Sep/2013:10:57:12 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:10:59:02 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:11:55:42 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:11:57:54 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:12:51:34 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:12:51:34 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:12:51:34 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [06/Sep/2013:12:51:34 CST] "GET /assets/themes/the-minimum/css/style.css HTTP/1.0" 200 20314
+http://fengaili.com/ -> /assets/themes/the-minimum/css/style.css
+localhost - - [06/Sep/2013:12:51:34 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [06/Sep/2013:12:51:34 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [06/Sep/2013:12:51:35 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [06/Sep/2013:12:51:35 CST] "GET /assets/themes/the-minimum/css/module.css HTTP/1.0" 200 1218
+http://fengaili.com/ -> /assets/themes/the-minimum/css/module.css
+localhost - - [06/Sep/2013:12:51:35 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [06/Sep/2013:12:51:35 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [06/Sep/2013:12:51:35 CST] "GET /assets/themes/the-minimum/javascript/post.js HTTP/1.0" 200 6622
+http://fengaili.com/ -> /assets/themes/the-minimum/javascript/post.js
+localhost - - [06/Sep/2013:12:51:35 CST] "GET /assets/themes/the-minimum/css/helper.css HTTP/1.0" 200 1665
+http://fengaili.com/ -> /assets/themes/the-minimum/css/helper.css
+localhost - - [06/Sep/2013:12:51:35 CST] "GET /assets/themes/the-minimum/css/pygments.css HTTP/1.0" 200 3526
+http://fengaili.com/ -> /assets/themes/the-minimum/css/pygments.css
+localhost - - [06/Sep/2013:12:51:35 CST] "GET /assets/themes/the-minimum/css/base.css HTTP/1.0" 200 5362
+http://fengaili.com/ -> /assets/themes/the-minimum/css/base.css
+localhost - - [06/Sep/2013:12:51:35 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [06/Sep/2013:12:51:35 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [06/Sep/2013:12:51:36 CST] "GET /assets/themes/the-minimum/skin/100-90-5-monochrome.png HTTP/1.0" 200 22346
+http://fengaili.com/ -> /assets/themes/the-minimum/skin/100-90-5-monochrome.png
+localhost - - [06/Sep/2013:12:51:36 CST] "GET /assets/themes/the-minimum/font/Junction-webfont.woff HTTP/1.0" 200 15548
+http://fengaili.com/ -> /assets/themes/the-minimum/font/Junction-webfont.woff
+localhost - - [06/Sep/2013:12:53:46 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:12:58:26 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:14:00:53 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:14:02:21 CST] "GET / HTTP/1.0" 200 8349
+- -> /
+localhost - - [06/Sep/2013:14:12:01 CST] "GET / HTTP/1.0" 200 8349
+- -> /

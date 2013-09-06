@@ -2,9 +2,12 @@
 
 @import "module.css";
 
+/*
 @import "syntaxhighlighter.css";
+*/
 
 @import "helper.css";
+@import "pygments.css";
 /*
 Frameless			<http://framelessgrid.com/>
 by Joni Korpi 		<http://jonikorpi.com/>

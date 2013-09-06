@@ -20,7 +20,7 @@ tags: ["java"]
 
 #### 二、线程方法：
 
-<pre class="prettyprint lang-java">
+{% highlight java linenos=table %}
 
 public class MyRunnable implements Runnable {
 	private volatile boolean quit =false;
@@ -90,7 +90,6 @@ public class TestThread {
 
 }
 
-</pre>
-
+{% endhighlight %}
 
 {% include JB/setup %}

@@ -12,7 +12,9 @@
 	<link href='{{ ASSET_PATH }}/css/style.css' rel="stylesheet" media="all">
 
 	<link href="http://feeds.feedburner.com/{{ site.author.feedbaname }}" rel="alternate" title="{{ page.title }}" type="application/atom+xml">
+	<script src="{{ ASSET_PATH }}/javascript/modernizr.min.js"></script>
 	
+	<script src="{{ ASSET_PATH }}/javascript/jquery.min.js"></script>
  
 	  <script>
 		// make sure jQuery is loaded before you run this function,
