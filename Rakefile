@@ -3,6 +3,17 @@ require 'rake'
 require 'yaml'
 require 'time'
 
+
+
+
+public_dir      = "public"    # compiled site directory
+source_dir      = "source"    # source file directory
+blog_index_dir  = 'source'    # directory for your blog's index page (if you put your index in source/blog/index.html, set this to 'source/blog')
+deploy_dir      = "_deploy"   # deploy directory (for Github pages deployment)
+stash_dir       = "_stash"    # directory to stash posts for speedy generation
+posts_dir       = "_posts"    # directory for blog files
+
+
 SOURCE = "."
 CONFIG = {
   'version' => "0.3.0",
@@ -307,3 +318,22 @@ end
 
 #Load custom rake scripts
 Dir['_rake/*.rake'].each { |r| load r }
+
+
+    desc 'Move all images in images/ to the current date image directory'
+    task :images do
+      images = FileList['images/*.*']
+      time = Time.new
+      target = Rake.application.original_dir + time.strftime('/%Y/%m/%d/')
+      #unless the file list is empty
+      unless images.existing.empty?
+          puts 'Cleaning images: ' + images.existing.to_s + ' => ' + target
+          begin
+            Dir::mkdir(target)
+          rescue
+          end
+          mv images.existing, target
+      end
+    end
+
+
