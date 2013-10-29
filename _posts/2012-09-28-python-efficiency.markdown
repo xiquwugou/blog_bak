@@ -15,8 +15,12 @@ categories: [note]
 2. 无用的行需要过滤掉，只分析有效内容的行。
 3. 每次只计算一个文件结果，输入参数为文件名称
 4. 用shell循环执行。分析目录下所有日志。
+
+
 ## 编程步骤
+
 python逐行读取文件方法
+
 
     with open(filename) as infile:
         for line in infile:

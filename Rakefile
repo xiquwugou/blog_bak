@@ -325,11 +325,14 @@ Dir['_rake/*.rake'].each { |r| load r }
       images = FileList['images/*.*']
       time = Time.new
       target = Rake.application.original_dir + time.strftime('/%Y/%m/%d/')
+      puts target
       #unless the file list is empty
       unless images.existing.empty?
           puts 'Cleaning images: ' + images.existing.to_s + ' => ' + target
           begin
+	    puts target
             Dir::mkdir(target)
+	    FileUtils.mkdir_p(target, :verbose => true)
           rescue
           end
           mv images.existing, target

@@ -42,3 +42,17 @@ h2 {
 	margin-left: -4.16%;
 	text-rendering: optimizelegibility;
 }
+
+ul, ol {
+    margin-left: 20px;
+    padding: 0 0 0 40px;
+}
+
+
+
+@import "custom.css";
+@import "jquery-ui.css";
+@import "screen.css";
+
+
+body {font-family:"Hiragino Sans GB","Microsoft Yahei",Tahoma, Helvetica, Arial, "SimSun", sans-serif; line-height: 1.7}

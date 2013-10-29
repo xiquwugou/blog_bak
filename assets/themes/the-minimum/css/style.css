@@ -2,12 +2,9 @@
 
 @import "module.css";
 
-/*
 @import "syntaxhighlighter.css";
-*/
 
 @import "helper.css";
-@import "pygments.css";
 /*
 Frameless			<http://framelessgrid.com/>
 by Joni Korpi 		<http://jonikorpi.com/>
@@ -27,11 +24,9 @@ Calculation should be done via  http://j.mp/rNg5uA
 No styleguide reference.
 */
 body {
-/*  font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif; */
- font-family: "Nobile",sans-serif;
-  font-size: 1.1em;
-/*  line-height: 1.625em; */
-  line-height: 1.75em; 
+  font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
+  font-size: 1em;
+  line-height: 1.625em;
 }
 /*
 Font size setting
@@ -59,31 +54,27 @@ h6 {
   font-family: junctionregularRegular, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, "MS PGothic", Osaka, Sans-Serif;
   font-weight: bold;
 }
-h1,
-.h1 {
+h1, .h1 {
   font-size: 42px;
   line-height: 52px;
   margin-top: 52px;
   margin-bottom: 26px;
   letter-spacing: -1px;
 }
-h2,
-.h2 {
+h2, .h2 {
   font-size: 42px;
   line-height: 52px;
   margin-top: 52px;
   margin-bottom: 26px;
   letter-spacing: -1px;
 }
-h3,
-.h3 {
+h3, .h3 {
   font-size: 26px;
   line-height: 26px;
   margin-top: 26px;
   margin-bottom: 26px;
 }
-h4,
-.h4 {
+h4, .h4 {
   font-size: 20px;
   line-height: 26px;
   margin-top: 26px;
@@ -97,9 +88,7 @@ img {
   margin-top: 0;
   margin-bottom: 1.625em;
 }
-small,
-.small,
-aside {
+small, .small, aside {
   font-size: 0.75em;
 }
 .font-size-default {
@@ -308,9 +297,7 @@ pre {
   margin-left: 0;
   margin-right: 0;
 }
-.unit-article ul,
-.unit-article ol,
-.unit-article dl {
+.unit-article ul, .unit-article ol, .unit-article dl {
   padding-left: 0;
 }
 .unit-article ul {
@@ -355,8 +342,7 @@ pre {
   margin-left: 0;
   margin-right: 0;
 }
-.unit-article p code,
-.unit-article li code {
+.unit-article p code, .unit-article li code {
   margin: 0 2px;
   padding: 2px 5px;
   white-space: nowrap;
@@ -386,16 +372,13 @@ pre {
 .unit-article .list-linear .list-head {
   margin-right: 4px;
 }
-.unit-article .list-category a,
-.unit-article .list-tag a {
+.unit-article .list-category a, .unit-article .list-tag a {
   border: 0 none;
 }
-.unit-article .list-category a:hover span,
-.unit-article .list-tag a:hover span {
+.unit-article .list-category a:hover span, .unit-article .list-tag a:hover span {
   background-color: #f99157;
 }
-.unit-article .list-category span,
-.unit-article .list-tag span {
+.unit-article .list-category span, .unit-article .list-tag span {
   background-color: #e25608;
   padding: 1px 5px;
   -webkit-border-radius: 10px;
@@ -654,12 +637,12 @@ pre {
   float: right;
 }
 .ie .layout-page .unit-body .unit-body-inner {
-  width: 60em;
+  width: 43.125em;
   margin-left: auto;
   margin-right: auto;
 }
 .ie .layout-page .unit-body .article-list {
-  width: 60em;
+  width: 43.125em;
 }
 .ie .layout-page .unit-body .article-list .meta {
   width: 20.625em;
@@ -739,13 +722,13 @@ pre {
 */
 @media only screen and (min-width: 768px) {
   .the-header .unit-inner {
-    width: 60em;
+    width: 43.125em;
   }
   .unit-article .unit-head-inner,
   .unit-article .entry-content,
   .unit-article .misc-content,
   .unit-article .unit-foot-inner {
-    width: 60em;
+    width: 43.125em;
   }
   .unit-article .unit-head-inner .meta {
     margin-bottom: 0;
@@ -754,10 +737,10 @@ pre {
     float: right;
   }
   .layout-page .unit-body .unit-body-inner {
-    width: 60em;
+    width: 43.125em;
   }
   .layout-page .unit-body .article-list {
-    width: 60em;
+    width: 43.125em;
   }
   .layout-page .unit-body .article-list .meta {
     margin-bottom: 0;
@@ -766,7 +749,7 @@ pre {
     float: right;
   }
   .the-footer .unit-foot {
-    width: 60em;
+    width: 43.125em;
   }
 }
 /*
@@ -790,7 +773,7 @@ pre {
   .unit-article .entry-content,
   .unit-article .misc-content,
   .unit-article .unit-foot-inner {
-    width: 60em;
+    width: 43.125em;
   }
   .unit-article .unit-foot .pagination {
     float: left;
@@ -803,10 +786,10 @@ pre {
     width: 20.625em;
   }
   .layout-page .unit-body .unit-body-inner {
-    width: 60em;
+    width: 43.125em;
   }
   .layout-page .unit-body .article-list {
-    width: 60em;
+    width: 43.125em;
   }
   .layout-page .unit-body .article-list .meta {
     width: 20.625em;
@@ -823,15 +806,13 @@ pre {
     width: 88.125em;
   }
   .the-header .logo {
-    width: 60em;
+    width: 43.125em;
   }
   .the-header .nav-global {
-    width: 60em;
+    width: 43.125em;
   }
-  .unit-article .unit-head-inner,
-  .unit-article .entry-content,
-  .unit-article .misc-content {
-    width: 60em;
+  .unit-article .unit-head-inner, .unit-article .entry-content, .unit-article .misc-content {
+    width: 43.125em;
   }
   .unit-article .unit-foot-inner {
     width: 88.125em;
@@ -844,10 +825,10 @@ pre {
     width: 9.375em;
   }
   .layout-page .unit-body .unit-body-inner {
-    width: 60em;
+    width: 43.125em;
   }
   .layout-page .unit-body .article-list {
-    width: 60em;
+    width: 43.125em;
   }
   .layout-page .unit-body .article-list .meta {
     width: 20.625em;
