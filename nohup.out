@@ -22128,3 +22128,20 @@ localhost - - [28/Oct/2013:15:00:13 CST] "GET /nagios/ HTTP/1.0" 404 281
 [2013-10-29 10:47:48] ERROR `/nagios/' not found.
 localhost - - [29/Oct/2013:10:47:48 CST] "GET /nagios/ HTTP/1.0" 404 281
 - -> /nagios/
+localhost - - [29/Oct/2013:17:56:35 CST] "GET / HTTP/1.0" 200 9803
+http://www.baidu.com/ -> /
+localhost - - [30/Oct/2013:05:01:24 CST] "GET / HTTP/1.0" 200 9803
+http://www.baidu.com/ -> /
+[2013-10-30 07:34:24] ERROR `/manager/html' not found.
+localhost - - [30/Oct/2013:07:34:24 CST] "GET /manager/html HTTP/1.0" 404 286
+- -> /manager/html
+localhost - - [30/Oct/2013:13:27:29 CST] "GET / HTTP/1.0" 200 9803
+http://www.baidu.com/ -> /
+localhost - - [30/Oct/2013:14:28:00 CST] "GET / HTTP/1.0" 200 9803
+- -> /
+[2013-10-30 14:28:01] ERROR `/favicon.ico' not found.
+localhost - - [30/Oct/2013:14:28:01 CST] "GET /favicon.ico HTTP/1.0" 404 285
+- -> /favicon.ico
+[2013-10-30 19:46:44] ERROR `/manager/html' not found.
+localhost - - [30/Oct/2013:19:46:44 CST] "GET /manager/html HTTP/1.0" 404 286
+- -> /manager/html
